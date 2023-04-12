@@ -1,2 +1,0 @@
-# GetOut
-Seriously get out.
